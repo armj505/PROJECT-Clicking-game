@@ -31,7 +31,6 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: E1E2EF;
 }
 
 .App-link {
@@ -55,12 +54,12 @@ h1 {
   background-color: #b497d6;
   border: 2px solid #bfacaa;
   width: 40%;
-  height: 300px;
+  height: 400px;
   padding: 50px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  margin: 5px;
+  gap: 5px;
   border-radius: 25px;
 }
 
